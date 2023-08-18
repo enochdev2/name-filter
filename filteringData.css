@@ -17,9 +17,9 @@ body{
 .container{
     box-shadow: 5px 5px 10px rgba(0,0,0,0.25), -5px -5px 10px rgba(0,0,0,0.25);
     width: 450px;
-    height: 600px;
+    height: 580px;
     overflow: hidden;
-    margin-top: 50px;
+    margin-top: 30px;
     background: #ffffff;
     
 }
@@ -59,7 +59,7 @@ li{
     padding: 0 10px;
     display: flex;
 
-    height: 100px;
+    height: 90px;
     display: flex;
     margin: 10px auto;
     box-shadow: 1px 5px 10px rgba(0,0,0,0.25);
